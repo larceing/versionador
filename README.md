@@ -68,3 +68,8 @@ Mensajes claros y barra de estado.
 📜 Licencia
 
 MIT (puedes usarlo y adaptarlo libremente).
+
+Descargo de responsabilidad
+Este código se publica exclusivamente con fines educativos y/o demostrativos y no incorpora garantías, explícitas o implícitas, incluidas, entre otras, idoneidad para un propósito particular, comerciabilidad, rendimiento o seguridad.
+El usuario es responsable de revisar, adaptar, auditar, probar y validar el código antes de emplearlo en entornos de producción. En ningún caso el autor será responsable de daños directos, indirectos, incidentales, especiales, consecuenciales o de cualquier otra naturaleza derivados del uso o la imposibilidad de uso de este código.
+El usuario debe garantizar el cumplimiento de leyes aplicables, políticas internas, licencias de dependencias y requisitos de seguridad. Este texto no constituye asesoramiento legal.
